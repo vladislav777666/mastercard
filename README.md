@@ -46,3 +46,5 @@ pyarrow==17.0.0
 ## Контакты
 Для вопросов: обратитесь к разработчику проекта.
 telegram @geniys666
+
+Репозиторий на гит хабе: https://github.com/vladislav777666/mastercard.git
